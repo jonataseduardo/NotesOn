@@ -1,1 +1,1 @@
-# A resitory with notes on diferent subjects 
+# A repository with notes on different subjects 
